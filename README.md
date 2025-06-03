@@ -4,7 +4,7 @@
 
 ## 🚀 Деплой
 
-Приложение доступно по адресу: [https://your-username.github.io/todo-app](https://your-username.github.io/todo-app) 
+Приложение доступно по адресу: [https://oleg3es.github.io/todoList/](https://oleg3es.github.io/todoList/) 
 
 ## ✨ Функционал
 
